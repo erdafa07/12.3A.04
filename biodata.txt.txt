@@ -1,0 +1,5 @@
+nim : 12211164
+nama : Erdaffa Nauval Dhynafa
+kelas : 12.3A.04
+prodi : sistem informasi
+alamat : bekasi
